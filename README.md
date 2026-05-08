@@ -15,8 +15,6 @@ The goal of this project is to extract meaningful insights about player performa
 * Python (for JSON to CSV conversion)
 * GitHub
 
----
-
 # 📂 Dataset Information
 
 The project uses two datasets:
