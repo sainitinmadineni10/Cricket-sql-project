@@ -1,0 +1,683 @@
+match_id,team1,team2,winner
+207334,West Indies,South Africa,South Africa
+208321,South Africa,West Indies,NA
+208835,West Indies,South Africa,South Africa
+209339,West Indies,South Africa,South Africa
+209582,Pakistan,West Indies,Pakistan
+209768,Pakistan,West Indies,Pakistan
+210366,Bangladesh,England,England
+211028,England,Australia,England
+211048,New Zealand,Australia,Australia
+211244,Bangladesh,England,England
+211364,Australia,Bangladesh,Bangladesh
+211678,Australia,England,Australia
+211824,Bangladesh,Australia,Australia
+211860,Bangladesh,England,England
+212020,Australia,England,NA
+212253,Bangladesh,Australia,Australia
+212452,Australia,England,NA
+213288,England,Australia,Australia
+213856,Australia,England,Australia
+214742,West Indies,India,India
+214852,Sri Lanka,West Indies,Sri Lanka
+215010,England,Australia,England
+215134,West Indies,Sri Lanka,West Indies
+215253,New Zealand,Zimbabwe,New Zealand
+216055,Zimbabwe,New Zealand,New Zealand
+216271,Africa XI,Asia XI,Africa XI
+216669,Africa XI,Asia XI,NA
+216932,Australia,England,England
+216994,England,Australia,England
+217481,India,Zimbabwe,India
+217647,Sri Lanka,Bangladesh,Sri Lanka
+217648,New Zealand,Zimbabwe,New Zealand
+217979,Zimbabwe,India,India
+218250,India,New Zealand,New Zealand
+218383,England,Australia,NA
+218813,Bangladesh,Sri Lanka,Sri Lanka
+219062,Zimbabwe,India,India
+219612,Sri Lanka,Bangladesh,Sri Lanka
+221083,Australia,ICC World XI,Australia
+221337,Australia,ICC World XI,Australia
+221840,Australia,ICC World XI,Australia
+222678,South Africa,New Zealand,New Zealand
+223018,India,Sri Lanka,India
+223334,Sri Lanka,India,India
+223335,South Africa,New Zealand,South Africa
+223542,New Zealand,South Africa,South Africa
+223902,Sri Lanka,India,India
+224044,South Africa,New Zealand,NA
+224227,New Zealand,South Africa,South Africa
+224231,India,Sri Lanka,Sri Lanka
+224556,Sri Lanka,India,India
+225164,England,India,NA
+225171,Ireland,England,England
+225245,England,Pakistan,NA
+225246,England,Pakistan,Pakistan
+225247,England,Pakistan,Pakistan
+225248,England,Pakistan,England
+225249,England,Pakistan,England
+225250,England,Sri Lanka,Sri Lanka
+225251,England,Sri Lanka,Sri Lanka
+225252,England,Sri Lanka,Sri Lanka
+225253,England,Sri Lanka,Sri Lanka
+225254,England,Sri Lanka,Sri Lanka
+225255,England,Pakistan,NA
+225256,Pakistan,England,England
+225257,England,Pakistan,England
+225258,England,Pakistan,England
+225263,England,Pakistan,Pakistan
+225264,England,Sri Lanka,NA
+225265,Sri Lanka,England,England
+225266,Sri Lanka,England,Sri Lanka
+225271,England,Sri Lanka,Sri Lanka
+225437,Sri Lanka,India,India
+225443,Pakistan,England,Pakistan
+225959,India,South Africa,South Africa
+226120,West Indies,Australia,Australia
+226350,Pakistan,England,NA
+226352,England,Pakistan,England
+226354,Pakistan,England,Pakistan
+226356,England,Pakistan,England
+226359,South Africa,India,India
+226363,India,Sri Lanka,India
+226364,Australia,New Zealand,Australia
+226372,Australia,South Africa,Australia
+226373,South Africa,Australia,Australia
+226374,Australia,South Africa,Australia
+226375,Australia,South Africa,South Africa
+226376,Australia,South Africa,Australia
+226377,Australia,South Africa,Australia
+226378,Australia,South Africa,Australia
+226380,Australia,Sri Lanka,Sri Lanka
+226381,Australia,Sri Lanka,Australia
+226382,Australia,Sri Lanka,Australia
+226383,South Africa,Sri Lanka,Sri Lanka
+226384,South Africa,Sri Lanka,South Africa
+226385,South Africa,Sri Lanka,South Africa
+226386,South Africa,Sri Lanka,Sri Lanka
+226390,Sri Lanka,New Zealand,New Zealand
+226391,New Zealand,Sri Lanka,New Zealand
+226392,New Zealand,Sri Lanka,New Zealand
+233797,Pakistan,India,NA
+234783,Pakistan,India,Pakistan
+235831,Pakistan,India,Pakistan
+236358,Australia,Sri Lanka,Sri Lanka
+236520,Pakistan,India,India
+236595,Australia,Sri Lanka,Australia
+236809,Pakistan,India,India
+236963,Australia,Sri Lanka,Australia
+237222,Pakistan,India,India
+237242,New Zealand,West Indies,NA
+237568,New Zealand,West Indies,New Zealand
+237571,Pakistan,India,India
+237574,Bangladesh,Sri Lanka,Sri Lanka
+238167,Bangladesh,Sri Lanka,Sri Lanka
+238168,Bangladesh,Sri Lanka,Sri Lanka
+238169,Bangladesh,Sri Lanka,Bangladesh
+238170,Bangladesh,Sri Lanka,Sri Lanka
+238171,Bangladesh,Australia,Australia
+238173,Bangladesh,Australia,Australia
+238174,Bangladesh,Australia,Australia
+238175,Bangladesh,Australia,Australia
+238176,New Zealand,West Indies,New Zealand
+238177,New Zealand,West Indies,New Zealand
+238178,New Zealand,West Indies,New Zealand
+238179,New Zealand,West Indies,West Indies
+238180,New Zealand,West Indies,New Zealand
+238186,England,India,India
+238188,India,England,India
+238189,India,England,India
+238190,India,England,India
+238193,India,England,England
+238194,India,England,India
+238195,South Africa,Australia,South Africa
+238196,South Africa,Australia,South Africa
+238197,South Africa,Australia,South Africa
+238198,South Africa,Australia,Australia
+238199,South Africa,Australia,Australia
+238200,South Africa,Australia,South Africa
+238201,South Africa,Australia,Australia
+238202,Australia,South Africa,Australia
+238203,South Africa,Australia,Australia
+238205,South Africa,New Zealand,South Africa
+238206,New Zealand,South Africa,NA
+238207,New Zealand,South Africa,South Africa
+238213,Sri Lanka,Pakistan,NA
+238214,Sri Lanka,Pakistan,Pakistan
+238215,Sri Lanka,Pakistan,Pakistan
+238217,Sri Lanka,Pakistan,Pakistan
+239025,England,India,NA
+239907,West Indies,Zimbabwe,West Indies
+239908,West Indies,Zimbabwe,West Indies
+239911,West Indies,Zimbabwe,West Indies
+239912,West Indies,Zimbabwe,NA
+239913,West Indies,Zimbabwe,West Indies
+239916,West Indies,India,West Indies
+239917,West Indies,India,West Indies
+239918,West Indies,India,West Indies
+239919,West Indies,India,West Indies
+239920,India,West Indies,NA
+239921,India,West Indies,NA
+239922,West Indies,India,NA
+239923,India,West Indies,India
+244510,India,Pakistan,Pakistan
+244511,India,Pakistan,India
+247219,Canada,Netherlands,Netherlands
+247457,West Indies,Pakistan,West Indies
+247458,Australia,Scotland,Australia
+247460,Bermuda,Sri Lanka,Sri Lanka
+247461,Ireland,Zimbabwe,NA
+247462,Netherlands,South Africa,South Africa
+247463,England,New Zealand,New Zealand
+247464,Bangladesh,India,Bangladesh
+247465,Ireland,Pakistan,Ireland
+247466,Australia,Netherlands,Australia
+247467,Canada,England,England
+247468,Bermuda,India,India
+247469,West Indies,Zimbabwe,West Indies
+247470,Scotland,South Africa,South Africa
+247471,Kenya,New Zealand,New Zealand
+247472,Bangladesh,Sri Lanka,Sri Lanka
+247473,Pakistan,Zimbabwe,Pakistan
+247474,Netherlands,Scotland,Netherlands
+247475,Canada,New Zealand,New Zealand
+247476,India,Sri Lanka,Sri Lanka
+247477,West Indies,Ireland,West Indies
+247478,Australia,South Africa,Australia
+247479,England,Kenya,England
+247480,Bangladesh,Bermuda,Bangladesh
+247481,West Indies,Australia,Australia
+247482,South Africa,Sri Lanka,South Africa
+247483,West Indies,New Zealand,New Zealand
+247484,England,Ireland,England
+247485,Australia,Bangladesh,Australia
+247486,West Indies,Sri Lanka,Sri Lanka
+247487,Bangladesh,New Zealand,New Zealand
+247488,Ireland,South Africa,South Africa
+247489,England,Sri Lanka,Sri Lanka
+247490,Bangladesh,South Africa,Bangladesh
+247491,Australia,England,Australia
+247492,Ireland,New Zealand,New Zealand
+247493,West Indies,South Africa,South Africa
+247494,Bangladesh,England,England
+247495,New Zealand,Sri Lanka,Sri Lanka
+247496,Australia,Ireland,Australia
+247497,New Zealand,South Africa,New Zealand
+247498,Bangladesh,Ireland,Ireland
+247499,Australia,Sri Lanka,Australia
+247500,England,South Africa,South Africa
+247501,Ireland,Sri Lanka,Sri Lanka
+247502,West Indies,Bangladesh,West Indies
+247503,Australia,New Zealand,Australia
+247504,West Indies,England,England
+247505,New Zealand,Sri Lanka,Sri Lanka
+247506,Australia,South Africa,Australia
+247507,Australia,Sri Lanka,Australia
+249193,South Africa,Sri Lanka,Sri Lanka
+249194,South Africa,Sri Lanka,Sri Lanka
+249207,Zimbabwe,Bangladesh,Bangladesh
+249211,South Africa,India,South Africa
+249212,South Africa,India,South Africa
+249213,South Africa,India,South Africa
+249214,South Africa,India,South Africa
+249215,India,South Africa,India
+249216,South Africa,India,South Africa
+249217,India,South Africa,South Africa
+249222,Australia,England,Australia
+249223,England,Australia,Australia
+249224,Australia,England,Australia
+249225,England,Australia,Australia
+249226,England,Australia,Australia
+249227,Australia,England,Australia
+249228,Australia,New Zealand,Australia
+249229,Australia,New Zealand,Australia
+249230,Australia,New Zealand,Australia
+249231,Australia,New Zealand,Australia
+249232,Australia,England,Australia
+249233,Australia,England,Australia
+249234,Australia,England,Australia
+249235,Australia,England,England
+249236,England,New Zealand,England
+249237,England,New Zealand,New Zealand
+249238,England,New Zealand,New Zealand
+249239,England,New Zealand,England
+249240,Australia,England,England
+249241,Australia,England,England
+249378,Kenya,Bangladesh,Bangladesh
+249379,Kenya,Bangladesh,Bangladesh
+249380,Kenya,Bangladesh,Bangladesh
+249739,Bangladesh,Sri Lanka,Sri Lanka
+249740,West Indies,Zimbabwe,West Indies
+249741,Sri Lanka,Zimbabwe,Sri Lanka
+249742,Bangladesh,West Indies,West Indies
+249743,Bangladesh,Zimbabwe,Bangladesh
+249744,Sri Lanka,West Indies,Sri Lanka
+249745,India,England,India
+249746,New Zealand,South Africa,New Zealand
+249747,Pakistan,Sri Lanka,Pakistan
+249748,Australia,West Indies,West Indies
+249749,New Zealand,Sri Lanka,Sri Lanka
+249750,Australia,England,Australia
+249751,South Africa,Sri Lanka,South Africa
+249752,New Zealand,Pakistan,New Zealand
+249753,India,West Indies,West Indies
+249754,Pakistan,South Africa,South Africa
+249755,England,West Indies,England
+249756,India,Australia,Australia
+249757,Australia,New Zealand,Australia
+249758,South Africa,West Indies,West Indies
+249759,Australia,West Indies,Australia
+250666,South Africa,Pakistan,Pakistan
+250667,Pakistan,South Africa,South Africa
+250668,South Africa,Pakistan,South Africa
+250669,South Africa,Pakistan,Pakistan
+250670,South Africa,Pakistan,NA
+250671,South Africa,Pakistan,South Africa
+250672,South Africa,Pakistan,South Africa
+251485,Sri Lanka,New Zealand,New Zealand
+251486,Sri Lanka,New Zealand,Sri Lanka
+251487,New Zealand,Sri Lanka,Sri Lanka
+251488,New Zealand,Sri Lanka,New Zealand
+251489,New Zealand,Sri Lanka,Sri Lanka
+251491,New Zealand,Sri Lanka,New Zealand
+251492,New Zealand,Sri Lanka,Sri Lanka
+251494,New Zealand,Australia,New Zealand
+251495,New Zealand,Australia,New Zealand
+251496,New Zealand,Australia,New Zealand
+255954,South Africa,India,India
+255961,South Africa,Zimbabwe,South Africa
+256607,India,West Indies,West Indies
+256608,Australia,India,NA
+256610,Australia,West Indies,West Indies
+256612,India,West Indies,India
+256614,Australia,India,Australia
+256615,Australia,West Indies,Australia
+256665,Sri Lanka,India,NA
+257470,South Africa,Zimbabwe,South Africa
+257765,West Indies,Pakistan,Pakistan
+257766,Pakistan,West Indies,NA
+257769,Pakistan,West Indies,Pakistan
+257770,Pakistan,West Indies,Pakistan
+257771,Pakistan,West Indies,West Indies
+257772,Pakistan,West Indies,Pakistan
+258459,England,West Indies,NA
+258460,England,West Indies,England
+258461,England,West Indies,England
+258462,West Indies,England,England
+258463,England,West Indies,West Indies
+258464,England,West Indies,England
+258465,England,West Indies,England
+258466,England,West Indies,West Indies
+258467,England,West Indies,West Indies
+258468,England,India,NA
+258469,England,India,India
+258470,India,England,NA
+258471,England,India,England
+258472,England,India,India
+258473,England,India,England
+258474,England,India,England
+258475,England,India,India
+258476,England,India,India
+258477,England,India,England
+259384,Bermuda,Canada,Canada
+259389,Bermuda,Netherlands,Bermuda
+259390,Bermuda,Canada,Canada
+259391,Canada,Netherlands,Netherlands
+259793,South Africa,Zimbabwe,South Africa
+264068,Bangladesh,Zimbabwe,Bangladesh
+264069,Bangladesh,Zimbabwe,Bangladesh
+264070,Bangladesh,Zimbabwe,Bangladesh
+264071,Bangladesh,Zimbabwe,Bangladesh
+267386,Bermuda,Canada,Canada
+267387,Bermuda,Netherlands,Netherlands
+267389,Kenya,Scotland,Scotland
+267391,Kenya,Canada,Kenya
+267708,India,West Indies,West Indies
+267709,India,West Indies,India
+267710,India,Sri Lanka,NA
+267712,India,Sri Lanka,Sri Lanka
+267713,India,Sri Lanka,India
+267715,India,Sri Lanka,India
+271465,South Africa,Pakistan,South Africa
+271466,Pakistan,South Africa,South Africa
+275789,Scotland,India,India
+276226,New Zealand,Australia,Australia
+282688,Bangladesh,India,India
+282689,Bangladesh,India,India
+282691,India,Bangladesh,NA
+282692,India,Bangladesh,India
+287853,South Africa,West Indies,South Africa
+287854,Kenya,New Zealand,New Zealand
+287855,Pakistan,Scotland,Pakistan
+287856,Australia,Zimbabwe,Zimbabwe
+287857,Bangladesh,West Indies,Bangladesh
+287858,England,Zimbabwe,England
+287860,Kenya,Sri Lanka,Sri Lanka
+287861,Australia,England,Australia
+287862,India,Pakistan,NA
+287863,New Zealand,Sri Lanka,Sri Lanka
+287864,South Africa,Bangladesh,South Africa
+287865,India,New Zealand,New Zealand
+287866,Australia,Bangladesh,Australia
+287867,South Africa,England,South Africa
+287868,Pakistan,Sri Lanka,Pakistan
+287869,England,New Zealand,New Zealand
+287870,Australia,Pakistan,Pakistan
+287871,Bangladesh,Sri Lanka,Sri Lanka
+287872,South Africa,New Zealand,South Africa
+287873,England,India,India
+287874,Australia,Sri Lanka,Australia
+287875,Bangladesh,Pakistan,Pakistan
+287876,South Africa,India,India
+287877,New Zealand,Pakistan,Pakistan
+287878,Australia,India,India
+287879,India,Pakistan,India
+289107,Africa XI,Asia XI,Asia XI
+289108,Africa XI,Asia XI,Asia XI
+289110,Africa XI,Asia XI,Asia XI
+291217,Sri Lanka,England,Sri Lanka
+291218,Sri Lanka,England,England
+291220,Sri Lanka,England,England
+291221,Sri Lanka,England,Sri Lanka
+291222,Sri Lanka,England,Sri Lanka
+291223,England,Sri Lanka,NA
+291224,Sri Lanka,England,NA
+63963,England,India,NA
+64012,Australia,England,Australia
+64013,England,Australia,England
+64022,South Africa,Pakistan,South Africa
+64023,South Africa,Pakistan,South Africa
+64027,Australia,West Indies,West Indies
+64036,Bangladesh,Australia,Australia
+64038,South Africa,England,NA
+64040,England,South Africa,England
+64041,South Africa,England,South Africa
+64042,South Africa,England,England
+64045,Bangladesh,Pakistan,Pakistan
+64047,New Zealand,India,NA
+64048,Australia,Zimbabwe,Australia
+64049,Zimbabwe,Australia,Australia
+64050,South Africa,Pakistan,Pakistan
+64051,South Africa,Pakistan,NA
+64052,Bangladesh,England,England
+64053,England,Bangladesh,England
+64055,West Indies,Zimbabwe,West Indies
+64058,England,Sri Lanka,Sri Lanka
+64059,Australia,India,NA
+64062,India,Australia,NA
+64063,South Africa,West Indies,South Africa
+64071,Australia,Sri Lanka,Australia
+64075,South Africa,New Zealand,New Zealand
+64076,New Zealand,South Africa,South Africa
+64080,West Indies,England,NA
+64083,Pakistan,India,India
+64094,England,West Indies,England
+64096,England,West Indies,England
+64100,Australia,India,NA
+64102,India,Australia,India
+64104,New Zealand,Bangladesh,New Zealand
+64107,New Zealand,Australia,Australia
+64108,Australia,New Zealand,Australia
+64109,South Africa,India,NA
+64110,South Africa,India,India
+64111,Bangladesh,India,India
+64113,Australia,Pakistan,Australia
+64118,South Africa,England,South Africa
+64123,Zimbabwe,South Africa,South Africa
+64124,Zimbabwe,South Africa,South Africa
+64128,New Zealand,Australia,Australia
+64129,Australia,New Zealand,NA
+64134,Sri Lanka,New Zealand,New Zealand
+64814,New Zealand,India,New Zealand
+64815,India,New Zealand,New Zealand
+64816,India,New Zealand,New Zealand
+64817,New Zealand,India,India
+64819,India,New Zealand,New Zealand
+64820,Australia,West Indies,Australia
+64825,Australia,West Indies,West Indies
+64826,Australia,West Indies,West Indies
+64827,Sri Lanka,West Indies,Sri Lanka
+64829,Sri Lanka,West Indies,West Indies
+64830,Bangladesh,Australia,Australia
+64831,Bangladesh,Australia,Australia
+64832,Australia,Bangladesh,Australia
+64833,Pakistan,Bangladesh,Pakistan
+64836,Bangladesh,Pakistan,Pakistan
+64837,Pakistan,Bangladesh,Pakistan
+64838,Pakistan,South Africa,Pakistan
+64839,Pakistan,South Africa,Pakistan
+64840,Pakistan,South Africa,South Africa
+64841,Pakistan,South Africa,South Africa
+64842,Pakistan,South Africa,South Africa
+64843,Bangladesh,England,England
+64844,Bangladesh,England,England
+64845,Bangladesh,England,England
+64846,England,Sri Lanka,Sri Lanka
+64848,West Indies,Zimbabwe,Zimbabwe
+64849,Zimbabwe,West Indies,Zimbabwe
+64850,New Zealand,Pakistan,Pakistan
+64851,West Indies,Zimbabwe,West Indies
+64852,Zimbabwe,West Indies,West Indies
+64853,Pakistan,New Zealand,Pakistan
+64855,New Zealand,Pakistan,Pakistan
+64857,Pakistan,New Zealand,New Zealand
+64862,South Africa,West Indies,South Africa
+64864,West Indies,South Africa,NA
+64865,South Africa,West Indies,West Indies
+64870,Australia,Sri Lanka,Australia
+64871,Sri Lanka,Australia,Sri Lanka
+64872,South Africa,New Zealand,New Zealand
+64874,Australia,Sri Lanka,Australia
+64881,Bangladesh,Zimbabwe,Zimbabwe
+64882,Pakistan,India,Pakistan
+64883,India,Pakistan,Pakistan
+64884,Pakistan,India,India
+64885,India,Pakistan,India
+64887,Zimbabwe,Sri Lanka,Sri Lanka
+64889,West Indies,England,NA
+64891,Sri Lanka,Zimbabwe,Sri Lanka
+64894,England,West Indies,West Indies
+64896,Bangladesh,West Indies,West Indies
+64897,West Indies,Bangladesh,West Indies
+64898,Bangladesh,West Indies,West Indies
+64899,Zimbabwe,Australia,Australia
+64900,Australia,Zimbabwe,Australia
+64901,Zimbabwe,Australia,Australia
+64905,South Africa,Sri Lanka,Sri Lanka
+64906,Sri Lanka,South Africa,Sri Lanka
+64907,New Zealand,Bangladesh,New Zealand
+64910,Zimbabwe,England,England
+64911,England,Zimbabwe,England
+64913,England,Zimbabwe,England
+64914,India,Bangladesh,India
+64917,India,Bangladesh,India
+64919,Zimbabwe,Bangladesh,Zimbabwe
+64922,South Africa,England,England
+64923,Zimbabwe,Bangladesh,Bangladesh
+64924,England,South Africa,NA
+64925,England,South Africa,South Africa
+64926,South Africa,England,South Africa
+64927,South Africa,England,South Africa
+64928,South Africa,England,NA
+64929,England,South Africa,South Africa
+64932,South Africa,Zimbabwe,South Africa
+64933,Australia,New Zealand,Australia
+64934,South Africa,Zimbabwe,South Africa
+64935,New Zealand,Australia,Australia
+64936,Zimbabwe,South Africa,South Africa
+64939,India,Pakistan,India
+64941,India,Pakistan,Pakistan
+64942,India,Pakistan,Pakistan
+64943,Pakistan,India,Pakistan
+65029,England,Pakistan,Pakistan
+65030,Pakistan,England,England
+65031,Pakistan,England,England
+65032,India,England,England
+65033,England,India,England
+65034,India,England,India
+65235,West Indies,South Africa,West Indies
+65236,Zimbabwe,Namibia,Zimbabwe
+65237,Sri Lanka,New Zealand,Sri Lanka
+65238,Australia,Pakistan,Australia
+65239,Canada,Bangladesh,Canada
+65240,Kenya,South Africa,South Africa
+65241,India,Netherlands,India
+65242,New Zealand,West Indies,New Zealand
+65244,India,Australia,Australia
+65245,Canada,Kenya,Kenya
+65246,Netherlands,England,England
+65247,Pakistan,Namibia,Pakistan
+65248,South Africa,New Zealand,New Zealand
+65249,West Indies,Bangladesh,NA
+65250,India,Zimbabwe,India
+65251,Canada,Sri Lanka,Sri Lanka
+65252,England,Namibia,England
+65254,Bangladesh,South Africa,South Africa
+65255,England,Pakistan,England
+65256,Canada,West Indies,West Indies
+65257,India,Namibia,India
+65258,Kenya,Sri Lanka,Kenya
+65259,Zimbabwe,Australia,Australia
+65260,Pakistan,Netherlands,Pakistan
+65261,Bangladesh,New Zealand,New Zealand
+65262,India,England,India
+65263,Australia,Namibia,Australia
+65264,South Africa,Canada,South Africa
+65265,Zimbabwe,Netherlands,Zimbabwe
+65266,Sri Lanka,West Indies,Sri Lanka
+65267,Kenya,Bangladesh,Kenya
+65268,Pakistan,India,India
+65269,England,Australia,Australia
+65270,Canada,New Zealand,New Zealand
+65271,Netherlands,Namibia,Netherlands
+65272,Sri Lanka,South Africa,NA
+65273,Pakistan,Zimbabwe,NA
+65275,Australia,Sri Lanka,Australia
+65276,Kenya,India,India
+65277,Zimbabwe,New Zealand,New Zealand
+65278,India,Sri Lanka,India
+65279,Australia,New Zealand,Australia
+65280,Zimbabwe,Kenya,Kenya
+65281,New Zealand,India,India
+65282,Sri Lanka,Zimbabwe,Sri Lanka
+65283,Kenya,Australia,Australia
+65284,Australia,Sri Lanka,Australia
+65285,India,Kenya,India
+65286,Australia,India,Australia
+65634,Sri Lanka,Australia,Sri Lanka
+65635,Australia,England,Australia
+65636,Sri Lanka,England,Sri Lanka
+65637,Sri Lanka,Australia,Australia
+65638,England,Sri Lanka,England
+65639,England,Australia,Australia
+65640,Sri Lanka,Australia,Australia
+65641,England,Australia,Australia
+65642,Australia,England,Australia
+65643,Australia,India,Australia
+65644,Australia,Zimbabwe,Australia
+65645,Zimbabwe,India,India
+65646,Australia,Zimbabwe,Australia
+65647,India,Australia,India
+65648,India,Zimbabwe,India
+65649,India,Australia,Australia
+65652,Australia,Zimbabwe,NA
+65653,India,Australia,Australia
+65655,India,Australia,Australia
+65656,Australia,India,Australia
+65659,West Indies,Pakistan,Pakistan
+65660,West Indies,Australia,NA
+65661,Pakistan,Australia,Australia
+65662,Australia,West Indies,Australia
+65664,Australia,Pakistan,Pakistan
+65665,Pakistan,West Indies,Pakistan
+65666,Australia,Pakistan,Australia
+65708,Pakistan,Bangladesh,Pakistan
+65713,Pakistan,Sri Lanka,Sri Lanka
+65714,Bangladesh,Sri Lanka,Sri Lanka
+65716,India,Sri Lanka,India
+65718,Sri Lanka,India,Sri Lanka
+65803,Pakistan,Zimbabwe,Pakistan
+65804,Sri Lanka,Pakistan,Pakistan
+65805,Kenya,Zimbabwe,Zimbabwe
+65806,Sri Lanka,Kenya,Sri Lanka
+65807,Sri Lanka,Zimbabwe,Zimbabwe
+65808,Pakistan,Kenya,Pakistan
+65809,Zimbabwe,Pakistan,Pakistan
+66196,England,Zimbabwe,England
+66197,New Zealand,United States of America,New Zealand
+66198,India,Kenya,India
+66200,United States of America,Australia,Australia
+66201,Zimbabwe,Sri Lanka,Sri Lanka
+66202,Kenya,Pakistan,Pakistan
+66203,West Indies,Bangladesh,West Indies
+66204,New Zealand,Australia,Australia
+66205,England,Sri Lanka,England
+66206,South Africa,West Indies,West Indies
+66207,India,Pakistan,Pakistan
+66208,Australia,England,England
+66209,Pakistan,West Indies,West Indies
+66210,England,West Indies,West Indies
+66283,England,Sri Lanka,England
+66284,England,India,India
+66293,England,Zimbabwe,Zimbabwe
+66294,South Africa,England,England
+66295,South Africa,Zimbabwe,South Africa
+66296,England,Zimbabwe,NA
+66297,England,South Africa,South Africa
+66299,Zimbabwe,England,England
+66301,Zimbabwe,South Africa,South Africa
+66302,South Africa,England,England
+66304,England,West Indies,West Indies
+66305,England,New Zealand,New Zealand
+66306,West Indies,England,England
+66309,England,West Indies,West Indies
+66311,New Zealand,West Indies,New Zealand
+66356,India,South Africa,NA
+66357,Pakistan,Sri Lanka,Pakistan
+66358,Pakistan,New Zealand,New Zealand
+66361,New Zealand,Sri Lanka,New Zealand
+66363,Pakistan,New Zealand,New Zealand
+66364,India,New Zealand,NA
+66365,India,Australia,India
+66366,New Zealand,Australia,Australia
+66367,Australia,India,Australia
+66368,New Zealand,Australia,Australia
+66369,India,New Zealand,New Zealand
+66372,India,New Zealand,India
+66374,Pakistan,India,Pakistan
+66375,Australia,India,NA
+66377,Australia,Pakistan,Australia
+66378,Pakistan,Zimbabwe,Pakistan
+66379,Zimbabwe,Pakistan,Pakistan
+66380,Sri Lanka,Pakistan,Pakistan
+66381,Zimbabwe,Sri Lanka,Sri Lanka
+66383,Sri Lanka,Pakistan,Sri Lanka
+66385,Australia,New Zealand,New Zealand
+66386,Australia,New Zealand,Australia
+67517,Australia,England,NA
+wi_201706,Trinidad and Tobago,Windward Islands,Trinidad and Tobago
+wi_201707,Barbados,Jamaica,Barbados
+wi_201713,Guyana,Windward Islands,Guyana
+wi_201716,Guyana,Barbados,Barbados
+wi_211824,Leeward Islands,Windward Islands,Windward Islands
+wi_211825,Barbados,Guyana,Barbados
+wi_211826,Jamaica,Trinidad and Tobago,Jamaica
+wi_211828,Leeward Islands,Barbados,Barbados
+wi_211829,Jamaica,Windward Islands,Jamaica
+wi_211830,Barbados,Windward Islands,Barbados
+wi_211831,Jamaica,Guyana,Jamaica
+wi_211832,Leeward Islands,Trinidad and Tobago,Trinidad and Tobago
+wi_211833,Jamaica,Barbados,Barbados
+wi_211834,Windward Islands,Trinidad and Tobago,Trinidad and Tobago
+wi_211835,Leeward Islands,Guyana,Guyana
+wi_211836,Jamaica,Leeward Islands,Jamaica
+wi_211838,Windward Islands,Guyana,Guyana
+wi_211973,Jamaica,Windward Islands,Jamaica
+wi_211976,Trinidad and Tobago,Leeward Islands,Trinidad and Tobago
+wi_211977,Jamaica,Barbados,Barbados
+wi_211979,Guyana,Leeward Islands,Guyana
+wi_212061,Barbados,Trinidad and Tobago,Barbados
+wi_212062,Guyana,Jamaica,Jamaica
+wi_212063,Windward Islands,Leeward Islands,Windward Islands
+wi_212064,Barbados,Jamaica,Barbados
